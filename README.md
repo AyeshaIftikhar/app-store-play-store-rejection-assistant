@@ -5,13 +5,13 @@ A reusable AI agent skill that helps coding agents analyze Apple App Store and G
 ## Installation
 
 ```bash
-npx skills add anomalyco/app-store-play-store-rejection-assistant
+npx skills add AyeshaIftikhar/app-store-play-store-rejection-assistant
 ```
 
 Or clone the repository and link it manually:
 
 ```bash
-git clone https://github.com/anomalyco/app-store-play-store-rejection-assistant.git
+git clone https://github.com/AyeshaIftikhar/app-store-play-store-rejection-assistant.git
 # Then configure your agent to point to skills/app-store-play-store-rejection-assistant/SKILL.md
 ```
 
