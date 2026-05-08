@@ -8,6 +8,11 @@ A reusable AI agent skill that helps coding agents analyze Apple App Store and G
 npx skills add AyeshaIftikhar/app-store-play-store-rejection-assistant
 ```
 
+Or install globally
+```bash
+npx skills add AyeshaIftikhar/app-store-play-store-rejection-assistant -g
+```
+
 Or clone the repository and link it manually:
 
 ```bash
